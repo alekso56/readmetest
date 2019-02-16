@@ -17,3 +17,15 @@ const x = 1
 
   ...a collapsible block
 </details>
+<details>
+  <summary>Click to view picture</summary>
+  Picture in the middle of...
+  
+  ---
+
+  Hello !
+
+  ---
+
+  ...a collapsible block
+</details>
