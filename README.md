@@ -18,14 +18,6 @@ const x = 1
   ...a collapsible block
 </details>
 <details>
-  <summary>Click to view picture</summary>
-  Picture in the middle of...
-  
-  ---
-
-  Hello !
-
-  ---
-
-  ...a collapsible block
+  <summary>Click to view text</summary>
+ <h1>Hello !</h1>
 </details>
